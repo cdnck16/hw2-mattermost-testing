@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Message_public_channel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a194773-32f2-4530-a282-f48de04e8834</testCaseGuid>
+   <variable>
+      <defaultValue>'haha'</defaultValue>
+      <description></description>
+      <id>11fb4f69-92d9-48f9-aad7-0702fd634d9b</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

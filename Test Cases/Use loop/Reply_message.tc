@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reply_message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>483a5bb4-1a1f-4703-9168-e245197955a0</testCaseGuid>
+   <variable>
+      <defaultValue>'huhu'</defaultValue>
+      <description></description>
+      <id>3713024a-45a5-4bc1-883d-c53e6d1b7dda</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

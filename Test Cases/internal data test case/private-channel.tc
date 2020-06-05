@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>private-channel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cc6258a-3151-435d-a20c-ef08704e7afe</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06b790d4-652e-4e66-aac3-7e73446f4fc0</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ffee64fa-3701-49a3-97d0-aff0825351e4</id>
+      <masked>false</masked>
+      <name>purpose</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8fa85ab-5130-4933-ab43-c77b263d0ff0</id>
+      <masked>false</masked>
+      <name>header</name>
+   </variable>
+</TestCaseEntity>

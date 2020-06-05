@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1326659-708f-4c2e-b136-22bc150019bb</testCaseGuid>
+   <variable>
+      <defaultValue>'phatvo'</defaultValue>
+      <description></description>
+      <id>f88f5170-3c27-4059-9e68-87f652badcf0</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'RigbBhfdqOBGNlJIWM1ClA=='</defaultValue>
+      <description></description>
+      <id>c123c7ef-2603-4991-bfac-2d281f068253</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

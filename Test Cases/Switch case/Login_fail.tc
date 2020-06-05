@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05919094-62c7-41d6-b68d-ac2c81e0a50d</testCaseGuid>
+   <variable>
+      <defaultValue>'phatvo'</defaultValue>
+      <description></description>
+      <id>fbc18fb6-aa8c-43c2-9730-ea3fe4a590df</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'BhfdqOBGNlJIWM1ClA=='</defaultValue>
+      <description></description>
+      <id>297dc17e-c688-4cfa-b063-ca3b178db1b3</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3d90098-ca12-420d-aaa0-c343d5dc2ac7</testCaseGuid>
+   <variable>
+      <defaultValue>'phatvo'</defaultValue>
+      <description></description>
+      <id>19034dcb-e1e1-4d18-b699-85d6079296fe</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'RigbBhfdqOBGNlJIWM1ClA=='</defaultValue>
+      <description></description>
+      <id>a476d669-3e7e-427c-aaae-14db8eea32ed</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://localhost:8065/login'</defaultValue>
+      <description></description>
+      <id>2b959627-bfff-4448-bf0f-4140c0927ec8</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>word-trigger</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd56c452-db22-49ca-80c1-8a254ee01c46</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cbb1658c-2fad-4fa6-b039-08cea0b5a67b</id>
+      <masked>false</masked>
+      <name>trigger_word</name>
+   </variable>
+</TestCaseEntity>

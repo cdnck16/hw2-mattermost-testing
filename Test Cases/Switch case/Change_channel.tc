@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change_channel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>248c67d8-ac91-4b74-a0b6-690f12457360</testCaseGuid>
+   <variable>
+      <defaultValue>'public channel'</defaultValue>
+      <description></description>
+      <id>ce8ea255-4ee6-4cd8-b66e-105e72b0d8c0</id>
+      <masked>false</masked>
+      <name>ChannelName</name>
+   </variable>
+   <variable>
+      <defaultValue>'phatvo'</defaultValue>
+      <description></description>
+      <id>587a2dc0-3cec-4e76-b2c9-0f69e933e9f3</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'RigbBhfdqOBGNlJIWM1ClA=='</defaultValue>
+      <description></description>
+      <id>62419005-ed4a-4fcb-a0aa-44daafff78c2</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

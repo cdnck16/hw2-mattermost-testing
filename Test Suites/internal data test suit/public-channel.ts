@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>public-channel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>60dd5f83-5d61-408f-ace1-f5b59bc56b24</testSuiteGuid>
+   <testCaseLink>
+      <guid>6894934f-0d52-45d2-a54f-641db199d90c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/internal data test case/public-channel</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>36edf743-aea5-4634-9d8b-139b333499aa</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/internal data/public-channel</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>36edf743-aea5-4634-9d8b-139b333499aa</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>16b924fc-1ead-46ad-b6c4-b93753cae64a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>36edf743-aea5-4634-9d8b-139b333499aa</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>purpose</value>
+         <variableId>e07870b2-eb96-4de1-bdc8-880f925ded2b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>36edf743-aea5-4634-9d8b-139b333499aa</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>header</value>
+         <variableId>7db604c0-56c2-437c-a695-c1b8a37a0793</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

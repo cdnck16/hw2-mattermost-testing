@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>private-channel-csv</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>999a1639-b1a8-4ebc-9b10-5bc88f7d1190</testSuiteGuid>
+   <testCaseLink>
+      <guid>0ebb1f7e-796e-47d4-8f1f-459298b4f57b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/csv test case/private-channel</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>53c5522d-62f8-4ae5-92ef-68dc2d831bbe</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/csv/private-channel</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>53c5522d-62f8-4ae5-92ef-68dc2d831bbe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>﻿name</value>
+         <variableId>06b790d4-652e-4e66-aac3-7e73446f4fc0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>53c5522d-62f8-4ae5-92ef-68dc2d831bbe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>purpose</value>
+         <variableId>ffee64fa-3701-49a3-97d0-aff0825351e4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>53c5522d-62f8-4ae5-92ef-68dc2d831bbe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>header</value>
+         <variableId>f8fa85ab-5130-4933-ab43-c77b263d0ff0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

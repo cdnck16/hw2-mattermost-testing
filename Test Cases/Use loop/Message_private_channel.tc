@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Message_private_channel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53c633d5-20dd-4a58-9794-b24e75e5d1e8</testCaseGuid>
+   <variable>
+      <defaultValue>'hoho'</defaultValue>
+      <description></description>
+      <id>f2b76794-7c1b-4fe9-b1c5-c921c4ecb474</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

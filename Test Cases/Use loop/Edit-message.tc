@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit-message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7cbb09b-593c-426c-a727-1304031c699e</testCaseGuid>
+   <variable>
+      <defaultValue>'editttttttt'</defaultValue>
+      <description></description>
+      <id>ae282ece-c9d2-47ce-b60d-c29ecaf16d9f</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

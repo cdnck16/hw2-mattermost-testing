@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>password</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>eeaef7ea-9a22-498c-8799-bb6d3926d5bb</testSuiteGuid>
+   <testCaseLink>
+      <guid>47c77810-7e83-4b69-9958-9ce8ff955c6b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/internal data test case/password</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>201668e7-2879-4150-a15d-8d8bb1657dab</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/internal data/password</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>201668e7-2879-4150-a15d-8d8bb1657dab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>current_password</value>
+         <variableId>fa7e0dd9-4c82-4453-8275-99fa1fab2156</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>201668e7-2879-4150-a15d-8d8bb1657dab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>new_password</value>
+         <variableId>e18cae49-7008-496f-8674-99543b3ca20b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>201668e7-2879-4150-a15d-8d8bb1657dab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>retype</value>
+         <variableId>76c5028b-5c46-4a92-a0b0-3bd518719cef</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

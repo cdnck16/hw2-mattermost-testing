@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search_comment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9084b8bb-8d5b-4655-b659-8ce9a7281f9b</testCaseGuid>
+   <variable>
+      <defaultValue>'hello'</defaultValue>
+      <description></description>
+      <id>85c4eb90-7055-4250-8296-b61b755621fb</id>
+      <masked>false</masked>
+      <name>VarA</name>
+   </variable>
+</TestCaseEntity>

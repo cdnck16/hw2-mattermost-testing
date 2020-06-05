@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a371506d-0035-4756-97c9-97291de70892</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc112188-0ffb-49a8-9d0d-e55f8033c2b3</id>
+      <masked>false</masked>
+      <name>new_email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>504a5b2e-f4f1-47bc-88fb-ccde0fb59b62</id>
+      <masked>false</masked>
+      <name>confirm_email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a93c44cb-2ac0-4078-9be9-fcd8aea0ef75</id>
+      <masked>false</masked>
+      <name>current_password</name>
+   </variable>
+</TestCaseEntity>

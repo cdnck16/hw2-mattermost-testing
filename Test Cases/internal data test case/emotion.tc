@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>emotion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3c70b03-c84e-42bd-8da4-3bf314a4a9a1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>472f998e-07c1-4c1c-8a7d-bfa754462722</id>
+      <masked>false</masked>
+      <name>emotion</name>
+   </variable>
+</TestCaseEntity>

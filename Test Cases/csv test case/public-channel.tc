@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>public-channel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b03de487-5376-4625-8c17-b8dad0716be2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>16b924fc-1ead-46ad-b6c4-b93753cae64a</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e07870b2-eb96-4de1-bdc8-880f925ded2b</id>
+      <masked>false</masked>
+      <name>purpose</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7db604c0-56c2-437c-a695-c1b8a37a0793</id>
+      <masked>false</masked>
+      <name>header</name>
+   </variable>
+</TestCaseEntity>

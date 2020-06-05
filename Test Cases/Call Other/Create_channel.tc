@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_channel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce4d5430-c0b4-4b1d-8de8-b1f4c4af912e</testCaseGuid>
+   <variable>
+      <defaultValue>'Happy Group 1'</defaultValue>
+      <description></description>
+      <id>d43a6f94-5b5a-48f2-8364-551553a6e7f8</id>
+      <masked>false</masked>
+      <name>VarG</name>
+   </variable>
+</TestCaseEntity>

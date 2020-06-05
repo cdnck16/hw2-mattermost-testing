@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_public_channel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcc2ec8a-d8bd-4381-bcfd-9f7f126e5e93</testCaseGuid>
+   <variable>
+      <defaultValue>'public channel'</defaultValue>
+      <description></description>
+      <id>1f15a39a-4f81-4407-9bcf-ae0aa6dbf3b4</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'purpose'</defaultValue>
+      <description></description>
+      <id>8df5747d-0b08-4cfb-a40b-8a03c9125727</id>
+      <masked>false</masked>
+      <name>purpose</name>
+   </variable>
+   <variable>
+      <defaultValue>'header'</defaultValue>
+      <description></description>
+      <id>a58b0897-0c9f-4a92-84f4-9618090382a8</id>
+      <masked>false</masked>
+      <name>header</name>
+   </variable>
+</TestCaseEntity>

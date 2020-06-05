@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>direct-message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65354ab6-f766-4650-bc72-ede038ea2cd7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6394f847-354b-44e9-8737-bd25c247ab87</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

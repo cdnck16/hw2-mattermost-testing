@@ -1,0 +1,30 @@
+{"testCaseName":"Test Cases/csv test case/private-channel","testCaseId":"Test Cases/csv test case/private-channel"}
+{"testCaseName":"Test Cases/csv test case/public-channel","testCaseId":"Test Cases/csv test case/public-channel"}
+{"testCaseName":"Test Cases/csv test case/login","testCaseId":"Test Cases/csv test case/login"}
+{"testCaseName":"Test Cases/csv test case/direct-message","testCaseId":"Test Cases/csv test case/direct-message"}
+{"testCaseName":"Test Cases/csv test case/full-name","testCaseId":"Test Cases/csv test case/full-name"}
+{"testCaseName":"Test Cases/internal data test case/email","testCaseId":"Test Cases/internal data test case/email"}
+{"testCaseName":"Test Cases/internal data test case/word-trigger","testCaseId":"Test Cases/internal data test case/word-trigger"}
+{"testCaseName":"Test Cases/internal data test case/private-channel","testCaseId":"Test Cases/internal data test case/private-channel"}
+{"testCaseName":"Test Cases/internal data test case/emotion","testCaseId":"Test Cases/internal data test case/emotion"}
+{"testCaseName":"Test Cases/internal data test case/username","testCaseId":"Test Cases/internal data test case/username"}
+{"testCaseName":"Test Cases/internal data test case/public-channel","testCaseId":"Test Cases/internal data test case/public-channel"}
+{"testCaseName":"Test Cases/internal data test case/login","testCaseId":"Test Cases/internal data test case/login"}
+{"testCaseName":"Test Cases/internal data test case/direct-message","testCaseId":"Test Cases/internal data test case/direct-message"}
+{"testCaseName":"Test Cases/internal data test case/header","testCaseId":"Test Cases/internal data test case/header"}
+{"testCaseName":"Test Cases/internal data test case/nickname","testCaseId":"Test Cases/internal data test case/nickname"}
+{"testCaseName":"Test Cases/internal data test case/language","testCaseId":"Test Cases/internal data test case/language"}
+{"testCaseName":"Test Cases/internal data test case/position","testCaseId":"Test Cases/internal data test case/position"}
+{"testCaseName":"Test Cases/internal data test case/password","testCaseId":"Test Cases/internal data test case/password"}
+{"testCaseName":"Test Cases/internal data test case/search","testCaseId":"Test Cases/internal data test case/search"}
+{"testCaseName":"Test Cases/internal data test case/full-name","testCaseId":"Test Cases/internal data test case/full-name"}
+{"testCaseName":"Test Cases/UI/Logout","testCaseId":"Test Cases/UI/Logout"}
+{"testCaseName":"Test Cases/UI/Create_public_channel","testCaseId":"Test Cases/UI/Create_public_channel"}
+{"testCaseName":"Test Cases/UI/Create_private_channel","testCaseId":"Test Cases/UI/Create_private_channel"}
+{"testCaseName":"Test Cases/UI/Create_team","testCaseId":"Test Cases/UI/Create_team"}
+{"testCaseName":"Test Cases/UI/Login","testCaseId":"Test Cases/UI/Login"}
+{"testCaseName":"Test Cases/Use condition/Message_public_channel","testCaseId":"Test Cases/Use condition/Message_public_channel"}
+{"testCaseName":"Test Cases/Use condition/Create_public_channel","testCaseId":"Test Cases/Use condition/Create_public_channel"}
+{"testCaseName":"Test Cases/Use condition/Create_private_channel","testCaseId":"Test Cases/Use condition/Create_private_channel"}
+{"testCaseName":"Test Cases/Use condition/Create_team","testCaseId":"Test Cases/Use condition/Create_team"}
+{"testCaseName":"Test Cases/Use condition/Login","testCaseId":"Test Cases/Use condition/Login"}

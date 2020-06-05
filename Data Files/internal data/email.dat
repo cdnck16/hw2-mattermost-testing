@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>email</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>52e22120-208c-4938-8e6b-457db42cd08e</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>test1%40gmail.com test1%40gmail.com phong1998</data>
+   <data>test2%40gmail.com test2%40gmail.com phong1998</data>
+   <data>test3%40gmail.com test3%40gmail.com phong1998</data>
+   <data>test4%40gmail.com test4%40gmail.com phong1998</data>
+   <data>test5%40gmail.com test5%40gmail.com phong1998</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>new_email</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>confirm_email</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>current_password</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

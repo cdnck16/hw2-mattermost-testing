@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Direct_message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d182004f-7626-4702-9783-56ce66ab0f87</testCaseGuid>
+   <variable>
+      <defaultValue>'hi'</defaultValue>
+      <description></description>
+      <id>a03957e2-8cc3-4009-96a7-ba64f9f63e35</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>
